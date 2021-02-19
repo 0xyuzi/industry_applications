@@ -3,5 +3,5 @@
 ## Finding if two products are substitutes or complements
 Use the shop carts information to analyze,
 
-$$ x+y $$
+$$ Complement Ratio = \frac {A \bigcap B}{A \bigcup B} $$
 
