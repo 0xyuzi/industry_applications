@@ -2,8 +2,6 @@
 
 ## Finding if two products are substitutes or complements
 Use the shop carts information to analyze,
-The substitutes score is :
-```math
-a^2+b^2=c^2
-```
+
+$$ x+y $$
 
